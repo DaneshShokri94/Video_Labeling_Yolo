@@ -74,6 +74,25 @@ python video_annotating.py
 
 MIT License
 
+## Citation
+
+If you use this tool in your research, please cite:
+
+```bibtex
+@Article{smartcities6050134,
+  AUTHOR = {Shokri, Danesh and Larouche, Christian and Homayouni, Saeid},
+  TITLE = {A Comparative Analysis of Multi-Label Deep Learning Classifiers for Real-Time Vehicle Detection to Support Intelligent Transportation Systems},
+  JOURNAL = {Smart Cities},
+  VOLUME = {6},
+  YEAR = {2023},
+  NUMBER = {5},
+  PAGES = {2982--3004},
+  DOI = {10.3390/smartcities6050134}
+}
+```
+
+> Shokri, Danesh, Christian Larouche, and Saeid Homayouni. 2023. "A Comparative Analysis of Multi-Label Deep Learning Classifiers for Real-Time Vehicle Detection to Support Intelligent Transportation Systems" *Smart Cities* 6, no. 5: 2982-3004. https://doi.org/10.3390/smartcities6050134
+
 ## Author
 
 [DaneshShokri94](https://github.com/DaneshShokri94)
