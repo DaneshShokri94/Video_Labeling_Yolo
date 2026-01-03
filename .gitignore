@@ -1,0 +1,25 @@
+# Build directories
+build/
+dist/
+__pycache__/
+*.pyc
+
+# PyInstaller
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+nul
+
+# Video files (too large for GitHub)
+Video/
+Sample_Video/
+*.mp4
+*.avi
+*.mov
+*.mkv
