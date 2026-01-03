@@ -15,10 +15,8 @@ __pycache__/
 Thumbs.db
 nul
 
-# Video files (too large for GitHub)
+# Large video files
 Video/
-Sample_Video/
-*.mp4
 *.avi
 *.mov
 *.mkv

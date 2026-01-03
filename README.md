@@ -62,9 +62,13 @@ python video_annotating.py
 - **Pascal VOC**: XML format for object detection
 - **COCO**: JSON format with full annotations
 
+## Sample Video
+
+A sample video is included in the `Sample_Video/` folder to help you get started and test the software.
+
 ## How to Use
 
-1. Click **Open** to load a video file
+1. Click **Open** to load a video file (or use the sample video in `Sample_Video/`)
 2. Select a class from the left panel
 3. Click and drag on the video to draw bounding boxes
 4. Use arrow keys or timeline to navigate frames
