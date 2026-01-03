@@ -2,6 +2,16 @@
 
 A powerful, user-friendly video labeling software for machine learning practitioners and researchers. Create high-quality training datasets for YOLO, Faster R-CNN, and other object detection models.
 
+---
+
+## 📥 Download Ready-to-Use Software
+
+**Windows users:** Download and run directly - No installation or Python required!
+
+👉 **[Download AnnotateX.exe](dist/AnnotateX.exe)** (Windows Executable)
+
+---
+
 ![Screenshot](Screenshot/screen.png)
 
 ## Features
@@ -18,18 +28,14 @@ A powerful, user-friendly video labeling software for machine learning practitio
 - Zoom and pan support
 - Keyboard shortcuts for efficient workflow
 
-## Download
+## Run from Source (Alternative)
 
-### Windows Executable
-Download the latest `.exe` file from [Releases](https://github.com/DaneshShokri94/Video_Labeling_Yolo/releases) - No Python installation required!
-
-### Run from Source
 ```bash
 pip install opencv-python pillow numpy
 python video_annotating.py
 ```
 
-## Requirements (for source)
+## Requirements (for source only)
 
 - Python 3.8+
 - OpenCV
