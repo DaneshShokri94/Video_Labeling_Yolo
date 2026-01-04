@@ -16,7 +16,7 @@ A powerful, user-friendly video labeling software for machine learning practitio
 
 ## Features
 
-- Load and navigate video files (MP4, AVI, MOV, MKV)
+- Load and navigate video files (MP4, AVI, MOV)
 - Draw bounding boxes with click and drag
 - 80+ pre-defined COCO classes + custom classes
 - Export annotations in multiple formats:
