@@ -8,7 +8,7 @@ A powerful, user-friendly video labeling software for machine learning practitio
 
 **Windows users:** Download and run directly - No installation or Python required!
 
-👉 **[Download AnnotateX.exe](dist/AnnotateX.exe)** (Windows Executable)
+**[Download AnnotateX.exe](dist/AnnotateX.exe)** (Windows Executable)
 
 ---
 
