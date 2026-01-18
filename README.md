@@ -80,7 +80,7 @@ MIT License
 
 ## Citation
 
-If you use this tool in your research, please cite:
+If you use this tool in your research, please cite this:
 
 ```bibtex
 @Article{smartcities6050134,
